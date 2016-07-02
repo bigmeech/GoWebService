@@ -1,0 +1,1 @@
+this contains published epub3 files under the publisher's account. e.g publisher1/mynewbook.epub

@@ -1,0 +1,1 @@
+This contain publications for preview purposes only. We can track versions here that want to be previewed. publisher1/mynewbook_preview_{commit_hash}.epub
